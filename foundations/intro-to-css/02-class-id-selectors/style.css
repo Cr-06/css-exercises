@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+.one {
+    background-color: #f08080;
+    font-family: 'verdana', 'dejaVu sans', 'sans-serif';
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+       background-color: #f08080;
+    font-family: 'verdana', 'dejaVu sans', 'sans-serif'; 
+    font-size: 24px;
+}
+
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.five {
+    background-color: #f08080;
+    font-family: 'verdana', 'dejaVu sans', 'sans-serif';
+}
